@@ -9,5 +9,6 @@ prom/prometheus
 rustdesk/rustdesk-server
 
 canal/canal-server
+apache/kafka
 
 #mysql
