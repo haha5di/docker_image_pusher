@@ -8,4 +8,6 @@
 prom/prometheus
 rustdesk/rustdesk-server
 
+canal/canal-server
+
 #mysql
